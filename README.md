@@ -378,10 +378,6 @@ flake8 .
 
 MIT License - ใช้งานได้อย่างอิสระ
 
-## 👥 Contributors
-
-- Your Team Name
-
 ## 📞 ติดต่อ
 
 - Email: tiwzazaza1234@gmail.com
